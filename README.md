@@ -1,2 +1,2 @@
 # bootsepteo
-Septeo Design system in Boostrap
+Septeo Design system in Bootstrap
